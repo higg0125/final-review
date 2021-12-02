@@ -62,6 +62,8 @@ table {
 -----------------------------------------------------------------------*/
 @media screen and (min-width: 960px) {
     .container{
+        margin: 0 auto;  /* marigin of 0 on the top and bottom and "automatic" on he laft and right*/
         width: 80%;
+        max-width: 1260px;
     }
 }
